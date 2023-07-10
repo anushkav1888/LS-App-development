@@ -63,18 +63,7 @@ class _CounterPageState extends State<CounterPage> {
           ],
         ),
       ),
-      // floatingActionButton: FloatingActionButton(
-      //   onPressed: _incrementCounter,
-      //   tooltip: 'Increment',
-      //   child: Icon(Icons.add),
-      // ),
-      //
-      // floatingActionButton: Row(
-      //   onPressed: _decrementCounter,
-      //   tooltip: 'Increment',
-      //   child: Icon(Icons.minimize),
-      // ),
-
+ 
     floatingActionButton: Row(
     mainAxisAlignment: MainAxisAlignment.center,
     children: [
